@@ -1,5 +1,5 @@
-= LINE FIDO2 SERVER API Guide
-LINE Corp;
+= IS Blocks FIDO2 SERVER API Guide
+IS Blocks Ltd;
 :doctype: book
 :icons: font
 :source-highlighter: highlightjs
