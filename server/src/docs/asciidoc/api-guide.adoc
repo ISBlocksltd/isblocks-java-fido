@@ -10,13 +10,13 @@ IS Blocks Ltd;
 [[introduction]]
 = Introduction
 
-This document is about the APIs of the LINE FIDO2 Server application that has been released as open-source.
+This document is about the APIs of the IS Blocks FIDO2 Server application that has been released as open-source.
 
 These define the messages exchanged between the RP server and LINE FIDO2 server.
 
 For more information, please see README.md at the link below.
 
-https://github.com/line/line-fido2-server
+https://github.com/isblocksltd/isblocks-java-fido
 
 
 
