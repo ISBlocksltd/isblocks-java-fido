@@ -1,16 +1,4 @@
-# LINE FIDO2 SERVER
-
-![Stars](https://img.shields.io/github/stars/line/line-fido2-server.svg?style=social)
-![Repo Size](https://img.shields.io/github/repo-size/line/line-fido2-server)
-![License Apache-2.0](https://img.shields.io/github/license/line/line-fido2-server)
-![Top Language](https://img.shields.io/github/languages/top/line/line-fido2-server)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.4.3-green)
-![Java version](https://img.shields.io/badge/Java-1.8-green)
-![Data base](https://img.shields.io/badge/DataBase-MySQL%2FH2%2FRedis-blue)
-![Last Commit](https://img.shields.io/github/last-commit/line/line-fido2-server)
-> **FIDO2(WebAuthn) Server officially certified by FIDO Alliance**
-
-<img src="images/fido2_certificate.jpg" height="500" align="center" alt=""/>
+# IS Blocks FIDO2 SERVER
 
 ## Overview
 
